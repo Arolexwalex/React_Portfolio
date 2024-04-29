@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpeg";
 
 export const HERO_CONTENT = "I am a passionate Frontend Developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React. My goal is to leverage my knowledge to create innovative solutions that drive business growth and deliver exceptional user experiences.";
 
-export const ABOUT_TEXT = "I am a dedicated and versatile Frontend eveloper with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, and expanding my knowledge to Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions";
+export const ABOUT_TEXT = "I am a dedicated and versatile Frontend developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, and currently expanding my knowledge other technologies. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions.";
 
 export const EXPERIENCES = [
   {
